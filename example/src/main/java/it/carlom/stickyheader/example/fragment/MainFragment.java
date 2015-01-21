@@ -13,6 +13,9 @@ import android.widget.ListView;
 import it.carlom.stickyheader.example.MainActivity;
 import it.carlom.stickyheader.example.R;
 
+/**
+ *主Fragment
+ */
 public class MainFragment extends Fragment {
 
 
